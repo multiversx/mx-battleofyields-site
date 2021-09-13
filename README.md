@@ -19,11 +19,11 @@ Examples: wrong information displayed, a page fails to load, clicking on a butto
  4.  Type your Battle of Yields wallet address (erd1…) in the “Title” field
  5.  Type in the issue in the following format:
 
-*Issue name:*
-Example: incorrect USD value displayed for the MEX amount in EGLD/MEXswap screen
+    *Issue name:*
+    Example: incorrect USD value displayed for the MEX amount in EGLD/MEXswap screen
 
-*Issue description:*
-Example: When swapping between EGLD and MEX, the USD value of the MEX amount to be swapped is incorrect. For example, for 100 MEX $10000 USD is displayed instead of $10 USD.
+    *Issue description:*
+    Example: When swapping between EGLD and MEX, the USD value of the MEX amount to be swapped is incorrect. For example, for 100 MEX $10000 USD is displayed instead of $10 USD.
 
 6. Click on “Submit New Issue”
 
