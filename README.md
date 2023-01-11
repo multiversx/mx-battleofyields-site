@@ -6,15 +6,15 @@ This repository has been created to manage the issue submission process for the 
 
 ## **What is in scope?**
 
-Any bugs or issues that you discover with the Maiar Exchange platform during the Battle of Yields competition.
+Any bugs or issues that you discover with the xExchange platform during the Battle of Yields competition.
 
 Examples: wrong information displayed, a page fails to load, clicking on a button does nothing, and so on.
 
-**Note:** security topics should be reported separately at [https://github.com/ElrondNetwork/sc-dex-rs](https://github.com/ElrondNetwork/sc-dex-rs)
+**Note:** security topics should be reported separately at [https://github.com/multiversx/mx-exchange-sc](https://github.com/multiversx/mx-exchange-sc)
 
 ## **How do I submit an issue?**
  1.  Create a GitHub account
- 2.  Go to [https://github.com/ElrondNetwork/battleofyields](https://github.com/ElrondNetwork/battleofyields) (here!)
+ 2.  Go to [https://github.com/multiversx/mx-battleofyields-site](https://github.com/multiversx/mx-battleofyields-site) (here!)
  3.  Click on “Issues”
  4.  Type your Battle of Yields wallet address (erd1…) in the “Title” field
  5.  Type in the issue in the following format:
